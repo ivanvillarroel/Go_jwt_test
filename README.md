@@ -2,7 +2,7 @@
 
 REST API built with Go, Gin, an in-memory SQLite database, dummy user data, and JWT authentication.
 
-H2 is a Java database. This Go implementation uses SQLite in memory to provide the same local and test-friendly behavior without an external database service.
+This Go implementation uses SQLite in memory to provide the same local and test-friendly behavior without an external database service.
 
 ## Run
 
